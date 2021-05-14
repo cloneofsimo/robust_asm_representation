@@ -1,5 +1,5 @@
 dataset
-.cpy
-.dat
-.json
-.pptx
+*.cpy
+*.dat
+*.json
+*.pptx
